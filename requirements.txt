@@ -1,0 +1,8 @@
+Flask
+flask-cors
+torch
+transformers
+pandas 
+scikit-learn 
+pydantic
+# Add any other specific libraries your model training or processing code needs

@@ -1,0 +1,808 @@
+term,category
+air freshener,cleanliness
+audio safety messages,cleanliness
+bad smell,cleanliness
+cabin hygiene,cleanliness
+carriage cleanliness,cleanliness
+carriage hygiene,cleanliness
+citrus cleaner,cleanliness
+clean,cleanliness
+clean conditions,cleanliness
+clean floors,cleanliness
+cleaners,cleanliness
+cleaning,cleanliness
+cleaning effort,cleanliness
+cleaning fluid smell,cleanliness
+cleaning products,cleanliness
+cleaning solution,cleanliness
+cleaning standards,cleanliness
+cleaning team,cleanliness
+cleanliness,cleanliness
+cleanliness issues,cleanliness
+cleanliness standards,cleanliness
+cobwebs,cleanliness
+daily cleaning,cleanliness
+damp smell,cleanliness
+deep cleaning,cleanliness
+dirt,cleanliness
+dirty,cleanliness
+dirty station,cleanliness
+disinfectant odor,cleanliness
+dust,cleanliness
+dust accumulation,cleanliness
+dust bunnies,cleanliness
+dustbins,cleanliness
+food smells,cleanliness
+frequent cleaning,cleanliness
+general cleanliness,cleanliness
+heavy dust,cleanliness
+hygiene,cleanliness
+hygiene level,cleanliness
+hygiene practices,cleanliness
+hygiene standards,cleanliness
+lack of freshness,cleanliness
+light dusting,cleanliness
+lingering bad smells,cleanliness
+litter,cleanliness
+litterbugs,cleanliness
+mess,cleanliness
+mopping,cleanliness
+odor,cleanliness
+odors,cleanliness
+offensive smells,cleanliness
+old food stains,cleanliness
+old trash,cleanliness
+overall cabin hygiene,cleanliness
+overall carriage cleanliness,cleanliness
+overall carriage hygiene,cleanliness
+overall hygiene level,cleanliness
+overall platform cleanliness,cleanliness
+overall platform hygiene,cleanliness
+overall station cleanliness,cleanliness
+overall station hygiene,cleanliness
+perfume smell,cleanliness
+pine cleaner,cleanliness
+platform cleanliness,cleanliness
+platform sweeping,cleanliness
+poor hygiene,cleanliness
+public area cleaning,cleanliness
+public hygiene,cleanliness
+public toilet cleanliness,cleanliness
+rubbish,cleanliness
+sanitized,cleanliness
+sanitized surfaces,cleanliness
+seat cleanliness,cleanliness
+smell,cleanliness
+smelled,cleanliness
+smelled strongly,cleanliness
+smells,cleanliness
+spotless condition,cleanliness
+spotless windows,cleanliness
+stains,cleanliness
+state of hygiene,cleanliness
+station cleaning,cleanliness
+station cleanliness,cleanliness
+station hygiene,cleanliness
+strong smell,cleanliness
+swept platform,cleanliness
+thick dust,cleanliness
+toilet cleanliness,cleanliness
+toilet smell,cleanliness
+train cabin hygiene,cleanliness
+train cleanliness,cleanliness
+train smell,cleanliness
+trash,cleanliness
+trash bins,cleanliness
+trash cans,cleanliness
+trash collection,cleanliness
+trash disposal,cleanliness
+trash levels,cleanliness
+trash management,cleanliness
+trash receptacles,cleanliness
+unclean,cleanliness
+unclean spots,cleanliness
+untidy,cleanliness
+urine smell,cleanliness
+visible cobwebs,cleanliness
+visible dirt,cleanliness
+add comfort,comfort
+air,comfort
+air circulation,comfort
+air conditioning,comfort
+air conditioning level,comfort
+air filtration system,comfort
+air in carriages,comfort
+air in station,comfort
+air quality,comfort
+air temperature,comfort
+aircond,comfort
+aircond setting,comfort
+aircond vents,comfort
+aircondd,comfort
+airflow,comfort
+ambient noise levels,comfort
+any seat,comfort
+armrest,comfort
+armrests,comfort
+cabin air,comfort
+cabin sound levels,comfort
+cabin temperature,comfort
+carriage air,comfort
+carriage temperature,comfort
+cold,comfort
+comfort,comfort
+comfort level,comfort
+comfortable,comfort
+confined,comfort
+designed seats,comfort
+elbow room,comfort
+enough space,comfort
+ergonomic seat design,comfort
+external noise,comfort
+extreme noise,comfort
+fallen hair visible,comfort
+for comfort,comfort
+hair,comfort
+hair clumps,comfort
+headrests,comfort
+hot,comfort
+leg room,comfort
+leg space,comfort
+legroom,comfort
+loud alarm,comfort
+loud chatter,comfort
+loud conversations,comfort
+loud phone calls,comfort
+luggage space,comfort
+new seat design,comfort
+new seats,comfort
+noise,comfort
+noise level,comfort
+overall comfort,comfort
+overall comfort level,comfort
+overall commute comfort,comfort
+overall passenger comfort,comfort
+overall ride comfort,comfort
+overhead space,comfort
+overhead storage space,comfort
+padded seats,comfort
+parking spaces,comfort
+passenger comfort,comfort
+personal space,comfort
+pleasant ambient lighting,comfort
+quality armrest,comfort
+quiet,comfort
+quiet cabin,comfort
+ride comfort,comfort
+ride smoothness,comfort
+seat,comfort
+seat angle,comfort
+seat armrests,comfort
+seat back,comfort
+seat comfort,comfort
+seat condition,comfort
+seat conditions,comfort
+seat covers,comfort
+seat depth,comfort
+seat design,comfort
+seat edge,comfort
+seat fabric,comfort
+seat height,comfort
+seat material,comfort
+seat materials,comfort
+seat pitch,comfort
+seat recline,comfort
+seat surfaces,comfort
+seat width,comfort
+seating,comfort
+smooth travel,comfort
+sound environment,comfort
+sound level,comfort
+soundproofing,comfort
+spaces,comfort
+space,comfort
+spacious,comfort
+stair riser heights,comfort
+stairs,comfort
+stairs access,comfort
+stairwell,comfort
+stale air,comfort
+standing area,comfort
+standing space,comfort
+state of disrepair,comfort
+station stairway,comfort
+stray hairs,comfort
+stuffy,comfort
+stuffy air,comfort
+temperature,comfort
+temperature control,comfort
+temperature fluctuations,comfort
+track noise,comfort
+train noise,comfort
+train vibration,comfort
+uncomfortable,comfort
+uncomfortable jolts,comfort
+uncomfortable pressure points,comfort
+ventilation,comfort
+vibration,comfort
+vibration dampening,comfort
+vibrations,comfort
+waiting area temperature,comfort
+waiting seats,comfort
+waiting space,comfort
+warm,comfort
+well-padded armrests,comfort
+wheel noise,comfort
+window seat,comfort
+abrupt train movements,facilities
+abrupt train starts,facilities
+anti skid flooring,facilities
+any floors,facilities
+available surfaces,facilities
+bicycle parking,facilities
+bicycle rack usage,facilities
+bin,facilities
+bins,facilities
+braille signage,facilities
+braille signs,facilities
+cabin,facilities
+cabin climate,facilities
+carriage,facilities
+carriage atmosphere,facilities
+ceiling,facilities
+charging ports,facilities
+charging stations,facilities
+clear directional signs,facilities
+convenient shops,facilities
+dedicated family restrooms,facilities
+dedicated luggage racks,facilities
+dedicated restrooms,facilities
+designated area,facilities
+digital displays,facilities
+digital map responsiveness,facilities
+digital route maps,facilities
+digital signage,facilities
+disabled access,facilities
+disabled access ramps,facilities
+display panels,facilities
+display screens,facilities
+display text,facilities
+displayed,facilities
+door closing,facilities
+door handles,facilities
+door malfunction,facilities
+door mechanisms,facilities
+door operation,facilities
+door operations,facilities
+door sensors,facilities
+doors,facilities
+doorway,facilities
+drinking fountains,facilities
+empty carriages,facilities
+entrance,facilities
+escalator,facilities
+escalator maintenance,facilities
+escalator maintenance notices,facilities
+escalator step,facilities
+escalator steps,facilities
+escalators,facilities
+excellent ramp access,facilities
+facility layout,facilities
+floor,facilities
+condition,facilities
+conditions,facilities
+floor markings,facilities
+floor tiles,facilities
+flooring,facilities
+floors,facilities
+food waste,facilities
+glass surfaces,facilities
+gleaming metal surfaces,facilities
+good overall station presentation,facilities
+grab handles,facilities
+grab poles,facilities
+great disabled access,facilities
+handholds,facilities
+handles,facilities
+info displays,facilities
+info screens,facilities
+interactive maps,facilities
+interior design,facilities
+interiors,facilities
+lift,facilities
+lift access,facilities
+lift accessibility,facilities
+lift interiors,facilities
+lift system,facilities
+lifts,facilities
+luggage racks,facilities
+map,facilities
+maps,facilities
+metal surfaces,facilities
+mobile charging ports,facilities
+mobile signal,facilities
+most steps,facilities
+new lifts,facilities
+next train indicators,facilities
+number of bins,facilities
+nursing room,facilities
+outdated maps,facilities
+overall platform tidiness,facilities
+overall station area,facilities
+parking,facilities
+parking area,facilities
+parking facility,facilities
+parking garage,facilities
+parking lots,facilities
+pavement,facilities
+platform,facilities
+platform area,facilities
+platform areas,facilities
+platform benches,facilities
+platform change notifications,facilities
+platform conditions,facilities
+platform crew,facilities
+platform design,facilities
+platform door synchronization,facilities
+platform doors,facilities
+platform gap,facilities
+platform layout,facilities
+platform screen doors,facilities
+platform shelter,facilities
+platform surface,facilities
+platform width,facilities
+platforms,facilities
+poles,facilities
+power outlets,facilities
+prayer room,facilities
+prayer rooms,facilities
+public address system,facilities
+public telephones,facilities
+public wifi,facilities
+ramp access,facilities
+recycling bins,facilities
+restroom condition,facilities
+restroom doors,facilities
+restroom facilities,facilities
+restrooms,facilities
+screens,facilities
+separate waste sorting,facilities
+shops,facilities
+signage,facilities
+signboards,facilities
+signposted,facilities
+signposts,facilities
+signs,facilities
+sparkling windows,facilities
+speaker volume,facilities
+state of station restrooms,facilities
+station amenities,facilities
+station architectural style,facilities
+architecture,facilities
+station architecture,facilities
+station area,facilities
+station assistants,facilities
+station bins,facilities
+station corners,facilities
+station decor,facilities
+station design,facilities
+station directory,facilities
+station entrance,facilities
+station facilities,facilities
+station features,facilities
+station floor,facilities
+station flooring,facilities
+station floors,facilities
+station hall,facilities
+station layout,facilities
+layout,facilities
+station maintenance,facilities
+station maps,facilities
+station navigation,facilities
+station platform,facilities
+station platforms,facilities
+station presentation,facilities
+station shops,facilities
+station signage,facilities
+station tidiness,facilities
+station toilets,facilities
+station upkeep,facilities
+steps,facilities
+sticky floors,facilities
+surfaces,facilities
+tiles,facilities
+toilet,facilities
+toilet area,facilities
+facility,facilities
+facilities,facilities
+toilet bins,facilities
+toilet facilities,facilities
+toilet sanitation,facilities
+toilets,facilities
+train acceleration,facilities
+train braking,facilities
+train cabin,facilities
+train cabins,facilities
+train car,facilities
+train carriage,facilities
+train cars,facilities
+train crowding levels,facilities
+train departure info,facilities
+train door sensors,facilities
+train doors,facilities
+train floor,facilities
+train interior,facilities
+train interiors,facilities
+train movement,facilities
+train movements,facilities
+train operation,facilities
+train rattled,facilities
+train ride,facilities
+train speed,facilities
+train times,facilities
+train wheels,facilities
+trains,facilities
+turnstiles,facilities
+useful interactive maps,facilities
+vending machine,facilities
+vending machines,facilities
+vertical poles,facilities
+walkway surface,facilities
+wall,facilities
+walls,facilities
+waste bins,facilities
+waste management,facilities
+water coolers,facilities
+water fountain,facilities
+water fountains,facilities
+wifi,facilities
+wifi connection,facilities
+wifi signal,facilities
+window,facilities
+window sills,facilities
+window view,facilities
+windows,facilities
+CCTV,safety
+accessible evacuation paths,safety
+alarm button,safety
+alarm system,safety
+all exits,safety
+audible safety warnings,safety
+balance,safety
+barriers along tracks,safety
+buttons,safety
+cameras,safety
+cctv,safety
+cctv cameras,safety
+cctv coverage,safety
+cctv footage quality,safety
+cctv system,safety
+children,safety
+childrens safety,safety
+clear platform edge markings,safety
+clear warnings,safety
+cracked tile,safety
+danger,safety
+dark alleys,safety
+dim lighting,safety
+disabled passenger safety,safety
+door alarms,safety
+door warning,safety
+emergency brake,safety
+emergency buttons,safety
+emergency call buttons,safety
+emergency call points,safety
+emergency door,safety
+emergency equipment,safety
+emergency escape routes,safety
+emergency exit,safety
+emergency exit signage,safety
+emergency exit signs,safety
+emergency exits,safety
+emergency lighting,safety
+emergency lighting system,safety
+emergency plans,safety
+emergency protocols,safety
+emergency routes,safety
+emergency stop buttons,safety
+entry gates,safety
+escalator handrail,safety
+escalator handrails,safety
+escalator safety features,safety
+evacuation paths,safety
+exit,safety
+exit route,safety
+fire drills,safety
+fire escape routes,safety
+fire exit paths,safety
+fire exits,safety
+fire extinguishers,safety
+fire safety equipment,safety
+fire safety features,safety
+fire safety gear,safety
+fire safety measures,safety
+fire safety points,safety
+first aid kit,safety
+first aid kits,safety
+first aid station,safety
+gentle sway,safety
+glass barriers,safety
+handrail,safety
+handrails,safety
+handrails on ramps,safety
+hazard,safety
+insecure,safety
+internal lighting,safety
+internal lighting level,safety
+jerks,safety
+jolt,safety
+lack of patrols,safety
+lift buttons,safety
+light,safety
+light fixture,safety
+lighting,safety
+lighting levels,safety
+lights,safety
+monitoring,safety
+new safety barriers,safety
+overall safety perception,safety
+overall safety standards,safety
+overall sense of security,safety
+overall station security,safety
+passenger safety,safety
+platform edge,safety
+platform edge doors,safety
+platform edge markings,safety
+platform edge warnings,safety
+platform edges,safety
+platform lighting,safety
+platform safety barriers,safety
+platform safety gates,safety
+pristine tracks,safety
+railings,safety
+safe,safety
+safety,safety
+safety awareness campaigns,safety
+safety awareness posters,safety
+safety barriers,safety
+safety briefing audio,safety
+safety briefings,safety
+safety checks,safety
+safety concerns,safety
+safety equipment,safety
+safety guidelines,safety
+safety inspections,safety
+safety instructions,safety
+safety markings,safety
+safety measures,safety
+safety procedures,safety
+safety protocols,safety
+safety regulations,safety
+safety rules,safety
+safety signs,safety
+safety standards,safety
+safety tools,safety
+safety warnings,safety
+secure,safety
+secure feeling,safety
+secure grab bars,safety
+security,safety
+security camera,safety
+security cameras,safety
+security patrols,safety
+security presence,safety
+sense of security,safety
+slip hazard,safety
+station evacuation plan,safety
+station evacuation procedures,safety
+station lighting,safety
+station lights,safety
+station safety protocols,safety
+station security,safety
+sudden jerks,safety
+sudden stops,safety
+suspicious activity,safety
+suspicious individuals,safety
+suspicious package,safety
+sway,safety
+swaying motion,safety
+track,safety
+track joint,safety
+tracks,safety
+train jolted,safety
+trip hazard,safety
+trip risk,safety
+uneven pavement,safety
+unsafe,safety
+visible first aid station,safety
+warning signs,safety
+window tracks,safety
+all staff,service
+announcement,service
+announcements,service
+appearance,service
+assistance,service
+attendant,service
+automated responses,service
+automated service line,service
+automated ticketing system,service
+available staff,service
+cashier,service
+cleaning staff,service
+clear announcements,service
+communication,service
+communication skills,service
+complaint,service
+complaint handling procedure,service
+complaint response,service
+counter,service
+counter staff,service
+customer hotline,service
+customer interaction skills,service
+customer service,service
+customer service ethic,service
+customer service hotline,service
+customer support,service
+customer support line,service
+delay,service
+discarded tickets,service
+dropped candy wrappers,service
+efficient ticketing process,service
+emergency information,service
+employee,service
+family friendly facilities,service
+fare information,service
+guard,service
+guards,service
+help,service
+help desk,service
+help point,service
+helpful conductor,service
+helpful directions,service
+helpline,service
+helpline operator,service
+helpline staff,service
+immediate assistance,service
+info desk staff,service
+info desk staffer,service
+information,service
+information accuracy,service
+information boards,service
+information booth,service
+information desk,service
+information desk staff,service
+information displayed,service
+information displays,service
+information from staff,service
+information given,service
+information online,service
+information point,service
+information screen visibility,service
+information screens,service
+interaction with guards,service
+jarring experience,service
+long delay,service
+lost property desk,service
+lost property service,service
+lumbar support,service
+manager,service
+minimal delay,service
+multilingual announcements,service
+multilingual service,service
+multilingual staff,service
+multilingual support,service
+new information screens,service
+old food wrappers,service
+old ticket stubs,service
+organized information desks,service
+overall customer service,service
+overall ride experience,service
+overall service,service
+overall service experience,service
+overall service quality,service
+overall station appearance,service
+overall station customer service,service
+overall station service,service
+personnel,service
+platform agent,service
+platform attendants,service
+platform staff,service
+polite,service
+professional response,service
+prompt updates,service
+public announcement speakers,service
+query,service
+quick ticket assistance,service
+real neck support,service
+refund,service
+refund application,service
+refund process,service
+response,service
+ride experience,service
+safety announcements,service
+safety information,service
+security announcements,service
+security guard,service
+security guards,service
+security personnel,service
+security staff,service
+security staff numbers,service
+service,service
+service agents,service
+service barrier,service
+service changes,service
+service desk,service
+service desk staff,service
+service experience,service
+service information,service
+service level,service
+service personnel,service
+service problem,service
+service quality,service
+service received,service
+service recovery,service
+service staff,service
+service standards,service
+service timing,service
+service updates,service
+simple query,service
+staff,service
+staff activity,service
+staff attitude,service
+staff interaction,service
+staff member,service
+staff members,service
+staff patrols,service
+staff response,service
+staff training,service
+staff training level,service
+staffers,service
+station agents,service
+station appearance,service
+station cleaning services,service
+station employees,service
+station guards,service
+station manager,service
+station personnel,service
+station staff,service
+submitted complaint,service
+supervisor,service
+support,service
+ticket assistance,service
+ticket barrier,service
+ticket barriers,service
+ticket booth,service
+ticket exchange,service
+ticket gate speed,service
+ticket gates,service
+ticket machine,service
+ticket machine interface,service
+ticket machines,service
+ticket office,service
+ticket refund process,service
+ticket scanner,service
+ticket screens,service
+ticket validator,service
+ticketing,service
+ticketing experience,service
+ticketing help,service
+ticketing issue,service
+ticketing machines,service
+ticketing problem,service
+ticketing staff,service
+timely updates,service
+train announcements,service
+train arrival announcements,service
+train delay announcements,service
+train delays,service
+train information,service
+train platform staff,service
+train schedule,service
+train schedule accuracy,service
+train schedule information,service
+updates,service
+visible cleaning schedule,service
+website,service
+website chat support,service
+website information,service
+website support chat,service

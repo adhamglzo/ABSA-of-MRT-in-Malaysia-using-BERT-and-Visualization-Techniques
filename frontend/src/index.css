@@ -1,0 +1,18 @@
+/* frontend/src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add these lines for global background in light and dark mode */
+body {
+  @apply bg-white text-gray-900; /* Default light mode */
+}
+
+html.dark body {
+  @apply bg-gray-950 text-gray-100; /* Dark mode background */
+}
+
+/* Optional: Add smooth transition for theme changes */
+body {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
